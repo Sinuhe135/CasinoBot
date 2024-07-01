@@ -1,0 +1,16 @@
+{
+  "name": "casinobot",
+  "version": "1.0.0",
+  "description": "blackjack discord bot",
+  "main": "scr/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sinuhe135",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  }
+}
