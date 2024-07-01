@@ -1,6 +1,8 @@
 # CasinoBot
 Bot de Discord para la administración de fichas en un juego de blackjack. Hecho en nodejs con Discord.js 
 
+**Link de invitacion:** https://discord.com/oauth2/authorize?client_id=1232238944117198918&permissions=2147494912&integration_type=0&scope=bot+applications.commands
+
 ## Comandos
 - **/jugar** Inicia una partida de blackjack. Quien lo utiliza se convierte en el dealer
 
